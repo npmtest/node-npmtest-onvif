@@ -1,0 +1,89 @@
+<svg height="1374" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1374" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 00:40:52 +0000   318847 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 00:40:52 +0000    14106 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 00:40:52 +0000      893 bytes  example.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 00:40:52 +0000     4896 bytes  example2.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 00:40:52 +0000     6151 bytes  example3.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 00:40:52 +0000    28568 bytes  lib/cam.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 00:40:52 +0000     2443 bytes  lib/device.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 00:40:52 +0000     5251 bytes  lib/discovery.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 00:40:52 +0000     6733 bytes  lib/events.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 00:40:52 +0000     6493 bytes  lib/imaging.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 00:40:52 +0000    29778 bytes  lib/media.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 00:40:52 +0000      218 bytes  lib/onvif.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 00:40:52 +0000    14990 bytes  lib/ptz.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 00:40:52 +0000     1507 bytes  lib/recording.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 00:40:52 +0000     1364 bytes  lib/replay.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 00:40:52 +0000     2694 bytes  lib/utils.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 00:40:52 +0000     3124 bytes  package.json</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 00:40:52 +0000      913 bytes  test.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 00:40:52 +0000     1660 bytes  test/_linerase.coffee</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 00:40:52 +0000    14372 bytes  test/common.coffee</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 00:40:52 +0000     1343 bytes  test/device.coffee</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 00:40:52 +0000     3187 bytes  test/discovery.coffee</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 00:40:52 +0000     2347 bytes  test/events.coffee</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 00:40:52 +0000     2299 bytes  test/imaging.coffee</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 00:40:52 +0000     5664 bytes  test/media.coffee</tspan>
+<tspan x="10" y="426"> 25.  2017-04-22 00:40:52 +0000     1937 bytes  test/ptz.coffee</tspan>
+<tspan x="10" y="442"> 26.  2017-04-22 00:40:52 +0000     2546 bytes  test/serverMockup.coffee</tspan>
+<tspan x="10" y="458"> 27.  2017-04-22 00:40:52 +0000     2256 bytes  test/serverMockup/AbsoluteMove.xml</tspan>
+<tspan x="10" y="474"> 28.  2017-04-22 00:40:52 +0000     2221 bytes  test/serverMockup/ContinuousMove.xml</tspan>
+<tspan x="10" y="490"> 29.  2017-04-22 00:40:52 +0000     1418 bytes  test/serverMockup/Error.xml</tspan>
+<tspan x="10" y="506"> 30.  2017-04-22 00:40:52 +0000     5833 bytes  test/serverMockup/GetCapabilities.xml</tspan>
+<tspan x="10" y="522"> 31.  2017-04-22 00:40:52 +0000     6385 bytes  test/serverMockup/GetCapabilitiesEncoder.xml</tspan>
+<tspan x="10" y="538"> 32.  2017-04-22 00:40:52 +0000     6065 bytes  test/serverMockup/GetConfigurationOptions.xml</tspan>
+<tspan x="10" y="554"> 33.  2017-04-22 00:40:52 +0000     3851 bytes  test/serverMockup/GetConfigurations.xml</tspan>
+<tspan x="10" y="570"> 34.  2017-04-22 00:40:52 +0000     2577 bytes  test/serverMockup/GetDeviceInformation.xml</tspan>
+<tspan x="10" y="586"> 35.  2017-04-22 00:40:52 +0000     4579 bytes  test/serverMockup/GetEventProperties.xml</tspan>
+<tspan x="10" y="602"> 36.  2017-04-22 00:40:52 +0000     2392 bytes  test/serverMockup/GetHostname.xml</tspan>
+<tspan x="10" y="618"> 37.  2017-04-22 00:40:52 +0000     6636 bytes  test/serverMockup/GetNodes.xml</tspan>
+<tspan x="10" y="634"> 38.  2017-04-22 00:40:52 +0000     5825 bytes  test/serverMockup/GetProfiles.xml</tspan>
+<tspan x="10" y="650"> 39.  2017-04-22 00:40:52 +0000     3720 bytes  test/serverMockup/GetScopes.xml</tspan>
+<tspan x="10" y="666"> 40.  2017-04-22 00:40:52 +0000     3244 bytes  test/serverMockup/GetServiceCapabilities.xml</tspan>
+<tspan x="10" y="682"> 41.  2017-04-22 00:40:52 +0000     4438 bytes  test/serverMockup/GetServices.xml</tspan>
+<tspan x="10" y="698"> 42.  2017-04-22 00:40:52 +0000     2665 bytes  test/serverMockup/GetSnapshotUri.xml</tspan>
+<tspan x="10" y="714"> 43.  2017-04-22 00:40:52 +0000     2882 bytes  test/serverMockup/GetStatus.xml</tspan>
+<tspan x="10" y="730"> 44.  2017-04-22 00:40:52 +0000     2568 bytes  test/serverMockup/GetStreamUri.xml</tspan>
+<tspan x="10" y="746"> 45.  2017-04-22 00:40:52 +0000     2543 bytes  test/serverMockup/GetSystemDateAndTime.xml</tspan>
+<tspan x="10" y="762"> 46.  2017-04-22 00:40:52 +0000     2600 bytes  test/serverMockup/GetVideoSourceConfigurations.x\</tspan>
+<tspan x="10" y="778">ml</tspan>
+<tspan x="10" y="794"> 47.  2017-04-22 00:40:52 +0000     3074 bytes  test/serverMockup/GetVideoSourcesEncoder.xml</tspan>
+<tspan x="10" y="810"> 48.  2017-04-22 00:40:52 +0000     2248 bytes  test/serverMockup/GotoPreset.xml</tspan>
+<tspan x="10" y="826"> 49.  2017-04-22 00:40:52 +0000     2069 bytes  test/serverMockup/Probe.xml</tspan>
+<tspan x="10" y="842"> 50.  2017-04-22 00:40:52 +0000     4893 bytes  test/serverMockup/PullMessages.xml</tspan>
+<tspan x="10" y="858"> 51.  2017-04-22 00:40:52 +0000     2256 bytes  test/serverMockup/RelativeMove.xml</tspan>
+<tspan x="10" y="874"> 52.  2017-04-22 00:40:52 +0000     2280 bytes  test/serverMockup/SetScopes.xml</tspan>
+<tspan x="10" y="890"> 53.  2017-04-22 00:40:52 +0000     2302 bytes  test/serverMockup/SetSystemDateAndTime.xml</tspan>
+<tspan x="10" y="906"> 54.  2017-04-22 00:40:52 +0000     2240 bytes  test/serverMockup/Stop.xml</tspan>
+<tspan x="10" y="922"> 55.  2017-04-22 00:40:52 +0000     2320 bytes  test/serverMockup/SystemReboot.xml</tspan>
+<tspan x="10" y="938"> 56.  2017-04-22 00:40:52 +0000     2541 bytes  test/serverMockup/device.GetNTP.xml</tspan>
+<tspan x="10" y="954"> 57.  2017-04-22 00:40:52 +0000     2238 bytes  test/serverMockup/device.SetNTP.xml</tspan>
+<tspan x="10" y="970"> 58.  2017-04-22 00:40:52 +0000     2817 bytes  test/serverMockup/events.CreatePullPointSubscrip\</tspan>
+<tspan x="10" y="986">tion.xml</tspan>
+<tspan x="10" y="1002"> 59.  2017-04-22 00:40:52 +0000     2536 bytes  test/serverMockup/events.GetServiceCapabilities.\</tspan>
+<tspan x="10" y="1018">xml</tspan>
+<tspan x="10" y="1034"> 60.  2017-04-22 00:40:52 +0000     2447 bytes  test/serverMockup/imaging.GetCurrentPreset.xml</tspan>
+<tspan x="10" y="1050"> 61.  2017-04-22 00:40:52 +0000     2673 bytes  test/serverMockup/imaging.GetImagingSettings.xml</tspan>
+<tspan x="10" y="1066"> 62.  2017-04-22 00:40:52 +0000      850 bytes  test/serverMockup/imaging.GetServiceCapabilities\</tspan>
+<tspan x="10" y="1082">.xml</tspan>
+<tspan x="10" y="1098"> 63.  2017-04-22 00:40:52 +0000     2264 bytes  test/serverMockup/imaging.SetCurrentPreset.xml</tspan>
+<tspan x="10" y="1114"> 64.  2017-04-22 00:40:52 +0000     2229 bytes  test/serverMockup/imaging.SetImagingSettings.xml</tspan>
+<tspan x="10" y="1130"> 65.  2017-04-22 00:40:52 +0000     2351 bytes  test/serverMockup/media.CreateProfile.xml</tspan>
+<tspan x="10" y="1146"> 66.  2017-04-22 00:40:52 +0000     2256 bytes  test/serverMockup/media.DeleteProfile.xml</tspan>
+<tspan x="10" y="1162"> 67.  2017-04-22 00:40:52 +0000     2377 bytes  test/serverMockup/media.GetAudioEncoderConfigura\</tspan>
+<tspan x="10" y="1178">tions.xml</tspan>
+<tspan x="10" y="1194"> 68.  2017-04-22 00:40:52 +0000     2345 bytes  test/serverMockup/media.GetAudioSources.xml</tspan>
+<tspan x="10" y="1210"> 69.  2017-04-22 00:40:52 +0000     3577 bytes  test/serverMockup/media.GetVideoEncoderConfigura\</tspan>
+<tspan x="10" y="1226">tion.xml</tspan>
+<tspan x="10" y="1242"> 70.  2017-04-22 00:40:52 +0000     5461 bytes  test/serverMockup/media.GetVideoEncoderConfigura\</tspan>
+<tspan x="10" y="1258">tionOptions.xml</tspan>
+<tspan x="10" y="1274"> 71.  2017-04-22 00:40:52 +0000     3581 bytes  test/serverMockup/media.GetVideoEncoderConfigura\</tspan>
+<tspan x="10" y="1290">tions.xml</tspan>
+<tspan x="10" y="1306"> 72.  2017-04-22 00:40:52 +0000     2555 bytes  test/serverMockup/media.GetVideoSources.xml</tspan>
+<tspan x="10" y="1322"> 73.  2017-04-22 00:40:52 +0000     2322 bytes  test/serverMockup/media.SetVideoEncoderConfigura\</tspan>
+<tspan x="10" y="1338">tion.xml</tspan>
+<tspan x="10" y="1354"> 74.  2017-04-22 00:40:52 +0000     7570 bytes  test/serverMockup/ptz.GetPresets.xml</tspan>
+</text>
+</svg>

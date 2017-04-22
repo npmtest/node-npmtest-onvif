@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>npmtest-onvif (v0.0.1)</title>
+<style>
+/*csslint
+    box-sizing: false,
+    universal-selector: false
+*/
+* {
+    box-sizing: border-box;
+}
+body {
+    background: #dde;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2rem;
+}
+body > * {
+    margin-bottom: 1rem;
+}
+.utility2FooterDiv {
+    margin-top: 20px;
+    text-align: center;
+}
+</style>
+<style>
+/*csslint
+*/
+textarea {
+    font-family: monospace;
+    height: 10rem;
+    width: 100%;
+}
+textarea[readonly] {
+    background: #ddd;
+}
+</style>
+</head>
+<body>
+
+<div id="ajaxProgressDiv1" style="background: #d00; height: 2px; left: 0; margin: 0; padding: 0; position: fixed; top: 0; transition: background 0.5s, width 1.5s; width: 25%;"></div>
+
+<h1>
+
+    <a
+        
+        href="https://github.com/npmtest/node-npmtest-onvif"
+        
+        target="_blank"
+    >
+
+        npmtest-onvif (v0.0.1)
+
+    </a>
+
+</h1>
+<h3>#### basic test coverage for [onvif (v0.5.3)](https://github.com/agsh/onvif#readme) [![npm package](https://img.shields.io/npm/v/npmtest-onvif.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-onvif) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-onvif.svg)](https://travis-ci.org/npmtest/node-npmtest-onvif)</h3>
+
+<h4><a download href="assets.app.js">download standalone app</a></h4>
+<button class="onclick onreset" id="testRunButton1">run internal test</button><br>
+<div id="testReportDiv1" style="display: none;"></div>
+
+
+
+
+<label>stderr and stdout</label>
+<textarea class="resettable" id="outputTextareaStdout1" readonly></textarea>
+
+
+
+<script src="assets.utility2.rollup.js"></script>
+<script src="jsonp.utility2._stateInit?callback=window.utility2._stateInit"></script>
+<script src="assets.npmtest_onvif.rollup.js"></script>
+<script src="assets.example.js"></script>
+<script src="assets.test.js"></script>
+
+
+
+<div class="utility2FooterDiv">
+    [ this app was created with
+    <a href="https://github.com/kaizhu256/node-utility2" target="_blank">utility2</a>
+    ]
+</div>
+</body>
+</html>
